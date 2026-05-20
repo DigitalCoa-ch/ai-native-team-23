@@ -351,7 +351,7 @@ export default function Home() {
         )}
 
         <footer className="text-center text-zinc-400 text-sm pt-12 border-t border-zinc-200 dark:border-zinc-800">
-          MMY · Marlon Tiik · Martin Lehiste · Yassin Moustafa · Team 23
+          Team 23
         </footer>
       </div>
     </main>
